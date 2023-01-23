@@ -1,0 +1,928 @@
+@media screen and (max-width:1281px) {
+    .divWithVideo {
+        height: 700px !important;
+    }
+
+    .divWithVideo>button {
+        margin: 50px;
+    }
+
+    .headerNav>span>a {
+        font-size: 15px !important;
+    }
+
+    .insdiv {
+        width: 430px !important;
+    }
+
+    .insdiv>h1 {
+        font-size: 25px;
+    }
+
+    .insdiv>p {
+        font-size: 30px !important;
+    }
+}
+
+@media screen and (max-width:1025px) {
+    .headerNav>span>a {
+        font-size: 13px !important;
+    }
+
+    .blocks>div {
+        width: 500px;
+        height: 500px;
+    }
+
+    .children1,
+    .blockchild1 {
+        height: 640px !important;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .txt>input {
+        width: 300px;
+    }
+
+    .img {
+        margin: 0;
+        width: 530px;
+        height: 530px;
+    }
+}
+
+@media screen and (max-width:914px) {
+    .fut3 {
+        height: 100% !important;
+    }
+
+    .fac {
+        font-size: 35px !important;
+    }
+
+    iframe {
+        height: 400px;
+    }
+
+    .pararaph-3,
+    .pararaph-2 {
+        font-size: 60PX;
+    }
+
+    .divWithVideo {
+        height: 80% !important;
+        padding: 30px;
+    }
+
+    nav {
+        display: none !important;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .col>h3 {
+        font-size: 70px !important;
+    }
+
+    .blockchild,
+    .blockchild1,
+    .block5,
+    .block4 {
+        margin: 10px;
+        width: 440px !important;
+        height: 100% !important;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        margin: 0px !important;
+        width: 425px;
+        height: 425px;
+    }
+}
+
+@media screen and (max-width:821px) {
+    .fut3 {
+        height: 100% !important;
+    }
+
+    iframe {
+        height: 400px;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        opacity: 0;
+    }
+
+    .col>h3 {
+        font-size: 70px !important;
+    }
+
+    .blockchild,
+    .blockchild1,
+    .block5,
+    .block4 {
+        width: 400px !important;
+        height: 100% !important;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        margin: 0px !important;
+        width: 425px;
+        height: 425px;
+    }
+}
+
+@media screen and (max-width:769px) {
+    .fut3 {
+        height: 100% !important;
+    }
+
+    iframe {
+        height: 400px;
+    }
+
+    .info {
+        height: 240px !important;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        opacity: 0;
+    }
+
+    .col>h3 {
+        font-size: 70px !important;
+    }
+
+    .blockchild,
+    .blockchild1,
+    .block5,
+    .block4 {
+        width: 370px !important;
+        height: 100% !important;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        margin: 0px !important;
+        width: 375px;
+        height: 375px;
+    }
+}
+
+
+@media screen and (max-width:541px) {
+    .fut1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .fut3 {
+        height: 100% !important;
+    }
+
+    iframe {
+        height: 300px;
+    }
+
+    .fut0 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .blocks {
+        display: flex;
+        flex-direction: column;
+        margin-top: 15px !important;
+
+    }
+
+    .blocks>div {
+        width: 300px;
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 65px;
+        height: 65px;
+    }
+
+    .insdiv {
+        width: 420px !important;
+    }
+
+    .info {
+        width: 430px;
+        height: 320px !important;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .yt,
+    .fac,
+    .inst,
+    .tg {
+        display: none;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+
+    .fa>h2 {
+        font-size: 35px !important;
+    }
+
+    .fa>p {
+        font-size: 20px !important;
+
+    }
+
+    .col>h3 {
+        font-size: 45px !important;
+    }
+
+    .col>img {
+        margin: 10px;
+    }
+}
+
+@media screen and (max-width:415px) {
+    .fut1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .fut3 {
+        height: 100% !important;
+    }
+
+    .divWithVideo {
+        height: 100%;
+    }
+
+    .pararaph-3,
+    .pararaph-2 {
+        font-size: 30px !important;
+    }
+
+    .Sjbody {
+        display: none !important;
+    }
+
+    iframe {
+        height: 200px;
+    }
+
+    .fut0 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .blocks {
+        gap: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks>div {
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 65px;
+        height: 65px;
+    }
+
+    .insdiv {
+        width: 320px !important;
+    }
+
+    .info {
+        width: 320px;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+
+    .fa>h2 {
+        font-size: 30px !important;
+    }
+
+    .col>h3 {
+        font-size: 30px !important;
+    }
+
+    .col>img {
+        margin: 10px;
+    }
+
+    .footer1 {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width:394px) {
+    iframe {
+        height: 200px;
+    }
+
+    .fut0 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .blocks {
+        gap: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks>div {
+        width: 300px;
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 65px;
+        height: 65px;
+    }
+
+    .insdiv {
+        width: 320px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+}
+
+@media screen and (max-width:376px) {
+    iframe {
+        height: 200px;
+    }
+
+    .Sjbody {
+        display: none !important;
+    }
+
+    .pararaph-3,
+    .pararaph-2 {
+        font-size: 30px !important;
+    }
+
+    .divWithVideo {
+        height: 400px;
+    }
+
+    #but {
+        width: 250px;
+    }
+
+    .fut0 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .blocks {
+        gap: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks>div {
+        width: 300px !important;
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 65px;
+        height: 65px;
+    }
+
+    .insdiv {
+        width: 320px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+
+    .fut3 {
+        height: 100% !important;
+    }
+}
+
+@media screen and (max-width:361px) {
+    iframe {
+        height: 200px;
+    }
+
+    .fut0 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .blocks {
+        gap: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks>div {
+        width: 290px !important;
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .bloc {
+        height: 440px !important;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 55px;
+        height: 55px;
+    }
+
+    .insdiv {
+        width: 320px;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+
+    .email {
+        height: 630px;
+    }
+
+    html,
+    body {
+        width: 380px !important;
+    }
+}
+
+@media screen and (max-width:281px) {
+    iframe {
+        height: 200px;
+    }
+
+    #but {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .divWithVideo {
+        height: 100%;
+    }
+
+    .fut3 {
+        width: 100%;
+    }
+
+    .blockchild1,
+    .blockchild3,
+    .blockchild5 {
+        display: none;
+    }
+
+    .haha {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .fa>h2 {
+        font-size: 20px !important;
+    }
+
+    .blocks {
+        gap: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blocks>div {
+        width: 250px !important;
+        height: 100% !important;
+    }
+
+    .blockchild>h2 {
+        font-family: 'Lora', serif;
+        font-size: 20px !important;
+        font-weight: bold;
+    }
+
+    .blockchild>p {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+
+    .whyRoboclub {
+        font-size: 30px;
+    }
+
+    .btn {
+        width: 190px;
+    }
+
+    .lorem1 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 30px;
+    }
+
+    .commentAboutTimur>p {
+        font-size: 10px;
+    }
+
+    .dogsimg4>img {
+        margin: 5px;
+        width: 55px;
+        height: 55px;
+    }
+
+    .insdiv {
+        width: 250px;
+    }
+
+    .info {
+        width: 90%;
+        height: 370px !important;
+    }
+
+    #qu {
+        margin: 0 0 20px 0 !important;
+        width: 260px !important;
+    }
+
+    #qu>input {
+        width: 200px;
+    }
+
+    .insdiv>h1 {
+        font-size: 20px !important;
+    }
+
+    .txt>input {
+        margin-bottom: 15px;
+        width: 250px;
+    }
+
+    .txt>p {
+        font-size: 13px;
+    }
+
+    .img {
+        display: none;
+    }
+
+    .email {
+        height: 630px;
+    }
+
+    .col>h3 {
+        font-size: 20px;
+    }
+
+    .col>p {
+        font-size: 20px;
+    }
+
+    html,
+    body {
+        width: 349px !important;
+
+    }
+}
